@@ -1,6 +1,4 @@
-# Hi, I'm Ailah Javed 👋
+# ICT_ Practice
 
-I'm a Mechatronics Engineering student who loves learning about robotics, coding, and smart technology.  
-This GitHub will soon have my projects, experiments, and ideas as I learn and grow in this field.  
-
-✨ Always curious. Always creating.
+ICT practice means using technology to share, store and manage information. It connects people through computers, mobile phones, the internet and networks.
+From sending a simple message to handling big data systems, everything comes under ICT.
